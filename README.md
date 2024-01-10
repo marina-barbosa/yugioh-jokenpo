@@ -5,6 +5,11 @@ deploy -> <a href="https://marina-barbosa.github.io/yugioh-jokenpo/" target="_bl
 # Jogo de Pedra-Papel-Tesoura com Temática de Yugioh
 Este é um projeto de um jogo de pedra-papel-tesoura com tema de Yugioh, desenvolvido como um exercício prático do curso de Game Dev da Digital Innovation One (DIO), ministrado pelo professor Felipe Aguiar. O jogo foi criado utilizando HTML, CSS e JavaScript, além de utilizar o framework RPGUI para a interface.
 
+<div align='center'>  
+
+![GIF](https://github.com/marina-barbosa/yugioh-jokenpo/blob/master/src/assets/Captura%20de%20tela%202024-01-10%20085649.png) 
+</div>
+
 # Visão Geral
 O jogo de pedra-papel-tesoura com tema de Yugioh é uma versão temática do jogo clássico, onde os elementos pedra, papel e tesoura foram substituídos por cartas representativas de monstros, feitiços e armadilhas do universo de Yugioh.
 
